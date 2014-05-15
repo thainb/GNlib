@@ -1,7 +1,3 @@
-/*
- * Copyright (c) 2014 by ThaiNB
- */
-
 package com.nova.packetlib.crypt;
 
 /**

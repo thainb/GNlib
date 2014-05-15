@@ -1,7 +1,4 @@
-package com.nova.packetlib.test;/*
- * Copyright (c) 2014 by ThaiNB
- */
-
+package com.nova.packetlib.test;
 /**
  * User: ThaiNB
  * Date: 5/15/14
